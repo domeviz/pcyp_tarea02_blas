@@ -1,0 +1,21 @@
+# ninja log v5
+0	68	7269860738854704	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	3eaec9481dcc6ec0
+0	68	7269860738854704	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/tarea02blas/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	3eaec9481dcc6ec0
+69	5793	7269860796112478	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	c406c4c0771195ed
+69	5793	7269860796112478	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/tarea02blas/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	c406c4c0771195ed
+5794	5931	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	dc915ad4115d2a14
+5794	5931	0	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/tarea02blas/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	dc915ad4115d2a14
+5931	5984	7269860798018747	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	42b4751f8b410487
+5931	5984	7269860798018747	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/tarea02blas/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	42b4751f8b410487
+5984	6036	7269860798539542	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	7a780d3d211f5678
+5984	6036	7269860798539542	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/tarea02blas/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	7a780d3d211f5678
+6037	6088	7269860799060270	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	b72f428b6c13135d
+6037	6088	7269860799060270	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/tarea02blas/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	b72f428b6c13135d
+6088	6142	7269860799592816	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	b536e9aa07044525
+6088	6142	7269860799592816	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/tarea02blas/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	b536e9aa07044525
+6142	6196	7269860800143942	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	9ffae55c396eb50
+6142	6196	7269860800143942	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/tarea02blas/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	9ffae55c396eb50
+6196	6269	7269860800866422	CMakeFiles/fmt-populate-complete	f48eace522c91f9e
+6196	6269	7269860800866422	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	f48eace522c91f9e
+6196	6269	7269860800866422	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/tarea02blas/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	f48eace522c91f9e
+6196	6269	7269860800866422	C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programación Concurrente y Paralela/Ejercicios/tarea02blas/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	f48eace522c91f9e

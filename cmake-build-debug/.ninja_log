@@ -1,0 +1,21 @@
+# ninja log v5
+5	2560	7269947993548766	CMakeFiles/tarea02blas.dir/main.cpp.obj	3beb533a88dd9c9b
+3860	4279	7269948010788427	_deps/fmt-build/libfmtd.a	a98e9a8a0e776d62
+4279	4685	7269948014749385	tarea02blas.exe	cc1085c7c253c9a1
+14	2470	7269947992671099	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	e640fbf07ab14a03
+10	3860	7269948006523053	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	8f1dd31ecbbcf498
+13	2193	7269949013464374	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	e640fbf07ab14a03
+4	2284	7269949014358745	CMakeFiles/tarea02blas.dir/main.cpp.obj	3beb533a88dd9c9b
+9	3563	7269949027096804	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	8f1dd31ecbbcf498
+3573	3978	7269949031327905	_deps/fmt-build/libfmtd.a	a98e9a8a0e776d62
+3978	4368	7269949035121519	tarea02blas.exe	cc1085c7c253c9a1
+9	2419	7269949570857149	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	e640fbf07ab14a03
+4	2517	7269949571810791	CMakeFiles/tarea02blas.dir/main.cpp.obj	3beb533a88dd9c9b
+13	3853	7269949585063476	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	8f1dd31ecbbcf498
+3853	4265	7269949589321948	_deps/fmt-build/libfmtd.a	a98e9a8a0e776d62
+4265	4667	7269949593256599	tarea02blas.exe	cc1085c7c253c9a1
+4	3203	7269951125609922	CMakeFiles/tarea02blas.dir/main.cpp.obj	3beb533a88dd9c9b
+9	3243	7269951126188349	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	e640fbf07ab14a03
+13	4670	7269951140412356	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	8f1dd31ecbbcf498
+4671	5120	7269951144982431	_deps/fmt-build/libfmtd.a	a98e9a8a0e776d62
+5120	5532	7269951149003870	tarea02blas.exe	cc1085c7c253c9a1
